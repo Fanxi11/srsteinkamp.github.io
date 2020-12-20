@@ -96,14 +96,16 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: wide
+      layout: single
+      classes: wide
       author_profile: true
   # home
   - scope:
       path: ""
       type: home
     values:
-      layout: wide
+      layout: single
+      classes: wide
       author_profile: true
 
 #category_archive:
