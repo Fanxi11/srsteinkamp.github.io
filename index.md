@@ -1,9 +1,7 @@
 ---
 title: "Home"
-layout: home
-author_profile: true
 ---
-## Wellcome
+## Welcome
 
 You are now on my landing page. From here you can go further to my blog / collection and other of my projects.
 

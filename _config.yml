@@ -98,6 +98,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # home
+  - scope:
+      path: ""
+      type: home
+    values:
+      layout: single
+      author_profile: true
 
 category_archive:
   type: liquid
