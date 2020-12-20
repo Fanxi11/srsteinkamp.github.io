@@ -102,7 +102,7 @@ defaults:
   # home
   - scope:
       path: ""
-      type: home
+      type: home3
     values:
       layout: single
       toc: true

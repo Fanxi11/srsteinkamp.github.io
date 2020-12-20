@@ -1,3 +1,7 @@
+---
+layout: home3
+author_profile: true
+---
 ## Welcome
 
 You are now on my landing page. From here you can go further to my blog / collection and other of my projects.
