@@ -1,6 +1,7 @@
 ---
-layout: home3
+layout: home
 author_profile: true
+toc: true
 ---
 ## Welcome
 
