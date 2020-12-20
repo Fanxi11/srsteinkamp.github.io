@@ -1,8 +1,5 @@
 ---
 title: "Home"
-layout: home
-author_profile: true
-toc: true
 ---
 ## Welcome
 

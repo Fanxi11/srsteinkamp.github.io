@@ -105,7 +105,7 @@ defaults:
       type: home
     values:
       layout: single
-      classes: wide
+      toc: true
       author_profile: true
 
 #category_archive:
