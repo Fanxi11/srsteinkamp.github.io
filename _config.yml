@@ -107,7 +107,6 @@ defaults:
       layout: single
       toc: true
       author_profile: true
-      classes: wide
 
 #category_archive:
 #  type: liquid

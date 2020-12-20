@@ -7,7 +7,7 @@ toc: true
 
 You are now on my landing page. From here you can go further to my blog / collection and other of my projects.
 
-If you are interested, you can also find my [CV](_pages/cv) and [publications](_pages/publications) on this page.
+If you are interested, you can also find my [CV](cv/) and [publications](publications/) on this page.
 
 ## Blog / Portfolio
 After using academic pages for a while, I decided to decouple some things.
