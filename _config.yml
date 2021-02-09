@@ -58,26 +58,29 @@ plugins:
 author:
   name   : "Simon R. Steinkamp"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Cognitivive Neuroscientist / Psychologist and machine learning enthusiast. Looking for a job."
+  bio    : " Data Scientist, background in Cognitivive Neuroscience & Psychology, machine learning enthusiast. Looking for a job."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://srsteinkamp.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=ssJ29JEAAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/srsteinkamp"
+    - label : "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/simon-steinkamp-785774181/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label : "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/simon-steinkamp-785774181/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/srsteinkamp"
 
 defaults:
   # _posts

@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I am a cognitive neuroscientist / psychologist by study, however, have gained my fair share of experience and knowledge in machine and deep learning.
+I am a data scientist and cognitive neuroscientist / psychologist by study, however, have gained my fair share of experience and knowledge in machine and deep learning.
 
 My doctorate research was on the computational modeling of visual attention, most of it using neuroimaging (fMRI) in combination with dynamic causal modeling (DCM). During my masters I also used electrophysiological measures (EEG) for speech recovery, in combination with fMRI recordings.
 
